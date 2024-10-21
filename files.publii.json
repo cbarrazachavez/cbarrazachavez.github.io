@@ -1,0 +1,822 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "27b04c5141f6f944b40145188e226afe"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0cdb59ef5ff45200c1fa7f118fea017e"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "db8649ed47c6ff1626cbe40d1e0db2db"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/gregory-peck",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/gregory-peck/index.html",
+        "type": "file",
+        "md5": "96d12ad91462e2f3e0079da2b96ea741"
+    },
+    {
+        "path": "authors/gregory-peck/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/gregory-peck/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/gregory-peck/page/2/index.html",
+        "type": "file",
+        "md5": "6c0a3f5a75c07338327898533a370e49"
+    },
+    {
+        "path": "best-creed-cologne-for-men-an-in-depth-guide-to-timeless-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/best-creed-cologne-for-men-an-in-depth-guide-to-timeless-fragrance/index.html",
+        "type": "file",
+        "md5": "fd1d50d7ffa4fa33edee9b2ba9496dde"
+    },
+    {
+        "path": "discovering-jpg-le-beau-paradise-garden-a-fragrance-oasis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discovering-jpg-le-beau-paradise-garden-a-fragrance-oasis/index.html",
+        "type": "file",
+        "md5": "e343081e588272555e280e63797b99a8"
+    },
+    {
+        "path": "ej-wells-a-comprehensive-look-at-a-rising-star-in-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/ej-wells-a-comprehensive-look-at-a-rising-star-in-fragrance/index.html",
+        "type": "file",
+        "md5": "6dc20fa969a860e49ca212e38d3187da"
+    },
+    {
+        "path": "exploring-burberry-goddess-notes-a-new-fragrance-for-modern-women",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-burberry-goddess-notes-a-new-fragrance-for-modern-women/index.html",
+        "type": "file",
+        "md5": "aff3d55ac2d394da5140c1dace3b9a75"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "bc3133e1229cff310fb822da6f69c846"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6bb162271c133faef48d8b42e754a492"
+    },
+    {
+        "path": "hawas-cologne-review-an-in-depth-look-at-this-captivating-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/hawas-cologne-review-an-in-depth-look-at-this-captivating-fragrance/index.html",
+        "type": "file",
+        "md5": "5685e7c730ea0ec973c7b3ad77ca7cd8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "daab21255b8dc9f9e202138735ed3922"
+    },
+    {
+        "path": "jpg-paradise-a-comprehensive-review-of-the-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/jpg-paradise-a-comprehensive-review-of-the-fragrance/index.html",
+        "type": "file",
+        "md5": "aae85a007c8a552488bb5b59a2d493a4"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/new-perfumes-2024.webp",
+        "type": "file",
+        "md5": "d99ecd0ee9926af8c54437ba10bec2f6"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-2xl.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-lg.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-md.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-sm.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-xl.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "/media/posts/1/responsive/new-perfumes-2024-xs.webp",
+        "type": "file",
+        "md5": "dd328c32e20000c02e2d422a1848b0d2"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-2xl.jpg",
+        "type": "file",
+        "md5": "c5099c1f298baa1faf13d34fede9c186"
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-lg.jpg",
+        "type": "file",
+        "md5": "447d2c7461a28a797fbe8d91c2d23e11"
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-md.jpg",
+        "type": "file",
+        "md5": "806cca568020a70c0b790e2ec5405dca"
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-sm.jpg",
+        "type": "file",
+        "md5": "6b67448d9d06521755bc88beeea9115b"
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-xl.jpg",
+        "type": "file",
+        "md5": "7d81ac54aa759cd7d7fbbdc8e67adf61"
+    },
+    {
+        "path": "/media/posts/10/responsive/Trump-Perfume-xs.jpg",
+        "type": "file",
+        "md5": "d306574d014c241942434a3cf667d26e"
+    },
+    {
+        "path": "/media/posts/10/Trump-Perfume.jpg",
+        "type": "file",
+        "md5": "6d7d00149f1078fcefe50ce068730288"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/burberry-goddess-notes.jpeg",
+        "type": "file",
+        "md5": "8b9ef0e8d08e636e866079db12769320"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-2xl.jpeg",
+        "type": "file",
+        "md5": "c312c7b0f07b0e29523456a477cb23b9"
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-lg.jpeg",
+        "type": "file",
+        "md5": "c312c7b0f07b0e29523456a477cb23b9"
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-md.jpeg",
+        "type": "file",
+        "md5": "b803a688330048c3e56e224e3d4be2b8"
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-sm.jpeg",
+        "type": "file",
+        "md5": "9b959c66a9884c2d65303c7eceb2a182"
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-xl.jpeg",
+        "type": "file",
+        "md5": "c312c7b0f07b0e29523456a477cb23b9"
+    },
+    {
+        "path": "/media/posts/2/responsive/burberry-goddess-notes-xs.jpeg",
+        "type": "file",
+        "md5": "0d36b8984cbaea62054b4ae9adef928b"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/JPG-Le-Beau-Paradise-Garden.webp",
+        "type": "file",
+        "md5": "a757c8cc0e7665dc8159739e93520281"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-2xl.webp",
+        "type": "file",
+        "md5": "3f220061e72bbd19aa7dcee058489dc1"
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-lg.webp",
+        "type": "file",
+        "md5": "3f220061e72bbd19aa7dcee058489dc1"
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-md.webp",
+        "type": "file",
+        "md5": "3f220061e72bbd19aa7dcee058489dc1"
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-sm.webp",
+        "type": "file",
+        "md5": "ee1831d44e21671f2c7ebc1527471b91"
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-xl.webp",
+        "type": "file",
+        "md5": "3f220061e72bbd19aa7dcee058489dc1"
+    },
+    {
+        "path": "/media/posts/3/responsive/JPG-Le-Beau-Paradise-Garden-xs.webp",
+        "type": "file",
+        "md5": "8e373068a05e1761f82e800c68c7a5c4"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/nautica-voyage.webp",
+        "type": "file",
+        "md5": "78e64eea51ac5f6741ce570e8f9f779a"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-2xl.webp",
+        "type": "file",
+        "md5": "8ed1b2f166df151330e40f8e4d30ef74"
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-lg.webp",
+        "type": "file",
+        "md5": "8ed1b2f166df151330e40f8e4d30ef74"
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-md.webp",
+        "type": "file",
+        "md5": "91e1bd92a7f6d53dd5c6f8d2583cc3f0"
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-sm.webp",
+        "type": "file",
+        "md5": "d447124ffae3bbb165922f8c2e234fd4"
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-xl.webp",
+        "type": "file",
+        "md5": "8ed1b2f166df151330e40f8e4d30ef74"
+    },
+    {
+        "path": "/media/posts/4/responsive/nautica-voyage-xs.webp",
+        "type": "file",
+        "md5": "075b4c42154c2045f49ac0878f402093"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden.webp",
+        "type": "file",
+        "md5": "989d4c964d92f409ffb06541735f3dc1"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-2xl.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-lg.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-md.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-sm.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-xl.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "/media/posts/5/responsive/Jean-Paul-Gaultier-Le-Beau-Paradise-Garden-xs.webp",
+        "type": "file",
+        "md5": "94f14bb4fe615c848c835ad66866fe73"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/popular-perfume-brands.webp",
+        "type": "file",
+        "md5": "b375e4889deae06c01db132a22a39f8b"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-2xl.webp",
+        "type": "file",
+        "md5": "56354800c69ffb2d86f1dc384939428e"
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-lg.webp",
+        "type": "file",
+        "md5": "56354800c69ffb2d86f1dc384939428e"
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-md.webp",
+        "type": "file",
+        "md5": "56354800c69ffb2d86f1dc384939428e"
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-sm.webp",
+        "type": "file",
+        "md5": "cb5ffb54da286bcc0757679809e0bdf6"
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-xl.webp",
+        "type": "file",
+        "md5": "56354800c69ffb2d86f1dc384939428e"
+    },
+    {
+        "path": "/media/posts/6/responsive/popular-perfume-brands-xs.webp",
+        "type": "file",
+        "md5": "0ad4bb9eb097a1ed81fe696633e5328f"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/hawas-cologne-review.webp",
+        "type": "file",
+        "md5": "8893a079b6a1048374574cd1fcab1e49"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-2xl.webp",
+        "type": "file",
+        "md5": "e3a69a27274fe9c93002822683e4f08b"
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-lg.webp",
+        "type": "file",
+        "md5": "e3a69a27274fe9c93002822683e4f08b"
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-md.webp",
+        "type": "file",
+        "md5": "e3a69a27274fe9c93002822683e4f08b"
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-sm.webp",
+        "type": "file",
+        "md5": "725f251c086b1de52f41c4e234a640ff"
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-xl.webp",
+        "type": "file",
+        "md5": "e3a69a27274fe9c93002822683e4f08b"
+    },
+    {
+        "path": "/media/posts/7/responsive/hawas-cologne-review-xs.webp",
+        "type": "file",
+        "md5": "57b39453346c53693158b3193f4a6133"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/best-Creed-cologne-for-men.webp",
+        "type": "file",
+        "md5": "af7172301855c649cbd3cd6033209ef9"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-2xl.webp",
+        "type": "file",
+        "md5": "27fc58f2537af23c965b779306ffd706"
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-lg.webp",
+        "type": "file",
+        "md5": "d2b822a39e9ba6cb918f109278c252f7"
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-md.webp",
+        "type": "file",
+        "md5": "c016da25a0f59b7051e257ff81c3c027"
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-sm.webp",
+        "type": "file",
+        "md5": "364834673bfce4287b955ee212e912d5"
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-xl.webp",
+        "type": "file",
+        "md5": "dfada3a8686c6f5ee4cbdb7f62d85914"
+    },
+    {
+        "path": "/media/posts/8/responsive/best-Creed-cologne-for-men-xs.webp",
+        "type": "file",
+        "md5": "41232fcd5e777188bfd64c090ae5917c"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/Most-Complimented-Cologne.webp",
+        "type": "file",
+        "md5": "af83407e7cb81b233d61d2729259b8f4"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-2xl.webp",
+        "type": "file",
+        "md5": "6d48d1c6c4e3445dc5e22db09dee765a"
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-lg.webp",
+        "type": "file",
+        "md5": "6d48d1c6c4e3445dc5e22db09dee765a"
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-md.webp",
+        "type": "file",
+        "md5": "6d48d1c6c4e3445dc5e22db09dee765a"
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-sm.webp",
+        "type": "file",
+        "md5": "3be5f622e762b9c599217102e6032702"
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-xl.webp",
+        "type": "file",
+        "md5": "6d48d1c6c4e3445dc5e22db09dee765a"
+    },
+    {
+        "path": "/media/posts/9/responsive/Most-Complimented-Cologne-xs.webp",
+        "type": "file",
+        "md5": "fc75a4aa8c5940b3b518cef8a5f3e7b9"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/new-perfumes-2024.jpg",
+        "type": "file",
+        "md5": "a2167e95a422ce434d4fbd2435100729"
+    },
+    {
+        "path": "/media/website/perfume-logo.png",
+        "type": "file",
+        "md5": "8b6db07fd3b4d2b6b83f035d4ff4bf20"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-2xl.jpg",
+        "type": "file",
+        "md5": "576fe309e279210c7b1338d20f887b27"
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-lg.jpg",
+        "type": "file",
+        "md5": "576fe309e279210c7b1338d20f887b27"
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-md.jpg",
+        "type": "file",
+        "md5": "ec1a91996082b0f607dff177409ed627"
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-sm.jpg",
+        "type": "file",
+        "md5": "112b89b190f5dd453911ed5baf8ca523"
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-xl.jpg",
+        "type": "file",
+        "md5": "576fe309e279210c7b1338d20f887b27"
+    },
+    {
+        "path": "/media/website/responsive/new-perfumes-2024-xs.jpg",
+        "type": "file",
+        "md5": "1939c97558f831387360bd10a4ae3aeb"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-2xl.png",
+        "type": "file",
+        "md5": "01cbb17fd4f7bcbe2618d44520022fb0"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-lg.png",
+        "type": "file",
+        "md5": "01cbb17fd4f7bcbe2618d44520022fb0"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-md.png",
+        "type": "file",
+        "md5": "01cbb17fd4f7bcbe2618d44520022fb0"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-sm.png",
+        "type": "file",
+        "md5": "16b5417f707951373318a86ac9786140"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-xl.png",
+        "type": "file",
+        "md5": "01cbb17fd4f7bcbe2618d44520022fb0"
+    },
+    {
+        "path": "/media/website/responsive/perfume-logo-xs.png",
+        "type": "file",
+        "md5": "9a2b6e878527e71fe8ca5dcd95dc8fdf"
+    },
+    {
+        "path": "most-complimented-cologne-the-ultimate-guide-to-fragrances-that-turn-heads",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/most-complimented-cologne-the-ultimate-guide-to-fragrances-that-turn-heads/index.html",
+        "type": "file",
+        "md5": "8324d980b5dd8020100c47320c2a4ee9"
+    },
+    {
+        "path": "nautica-voyage-review-a-comprehensive-exploration-of-the-iconic-fragrance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nautica-voyage-review-a-comprehensive-exploration-of-the-iconic-fragrance/index.html",
+        "type": "file",
+        "md5": "de6d11d495138270dc1c01cb10961d59"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "7b94155750fc0f0b5a164dbfe8b4589d"
+    },
+    {
+        "path": "popular-perfume-brands-a-deep-dive-into-fragrance-excellence",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/popular-perfume-brands-a-deep-dive-into-fragrance-excellence/index.html",
+        "type": "file",
+        "md5": "b8df288e31b954ec940304d33bdaf40c"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "4aecba9b97d49ba8de30eaf0b598d61b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c7cab29e11af6ec80509de0b1875ea9e"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "cc8f06f471469dbe18b89cb6f14b7a14"
+    },
+    {
+        "path": "the-exciting-world-of-new-perfumes-2024-a-scented-journey",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-exciting-world-of-new-perfumes-2024-a-scented-journey/index.html",
+        "type": "file",
+        "md5": "b923c54df14c3a1e3bc18c0f33b908e2"
+    }
+]
